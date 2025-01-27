@@ -4,3 +4,9 @@ version: 1.0
 api-version: 1.16
 author: fread
 description: Плагин для скрытия команд
+
+# Здесь описываем разрешения:
+permissions:
+  cloverhide.bypass:
+    description: "Разрешение видеть и выполнять скрытые команды"
+    default: op
