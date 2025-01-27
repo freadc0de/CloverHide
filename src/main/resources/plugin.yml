@@ -1,0 +1,6 @@
+name: CloverHide
+main: com.fread.cloverhide.CloverHide
+version: 1.0
+api-version: 1.16
+author: fread
+description: Плагин для скрытия команд
